@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApi.Controllers.AuthorizationController">
+    <Position X="14.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAMAIAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\AuthorizationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.DepartmentController">
+    <Position X="11.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgAAAAAAAAAAAAAAgAAAAIAAAAgAAAEAAIAAAIA=</HashCode>
+      <FileName>Controllers\DepartmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.EmployeeViewModel">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\DepartmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.DepViewModel">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\DepartmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.EmployeeController">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAEQAAAAAAAAAAAAAAAEoAgAEAAAAAAIA=</HashCode>
+      <FileName>Controllers\EmployeeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.DepartmnetsViewModel">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.EmpViewModel">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIIAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.HomeController">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAgAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.InformingController">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\InformingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.InformingViewModel">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Controllers\InformingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.EmployeeInfModel">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\InformingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.PositionController">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAEAAIAAAIA=</HashCode>
+      <FileName>Controllers\PositionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.UserController">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAgAAAAAEgAAAEAAAAAAIA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Controllers.UserModel">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Helpers.InformingHelper">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\InformingHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Models.UserAuthViewModel">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAACAAAAAAAAAAACAAAQAAACAAA=</HashCode>
+      <FileName>Models\UserAuthViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Program">
+    <Position X="14.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApi.Startup">
+    <Position X="6" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
